@@ -1,7 +1,6 @@
 
 ## Hi there, I'm [Nishkarsh](https://github.com/A-lone-Contributer)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/A-lone-Contributer?style=social)
 
- ### Profile Views :<br>
 <img src="https://profile-counter.glitch.me/A-lone-Contributer/count.svg" />
 
 <p>
