@@ -34,6 +34,43 @@
 <img src="https://github-readme-stats.vercel.app/api?username=A-lone-Contributer&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
+### Top repositories
+
+<p align="center">
+  
+<a href="https://github.com/A-lone-Contributer/D-CRYPTOR">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=A-lone-Contributer&repo=D-CRYPTOR&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+</p>
+
+<p align="center">
+  
+<a href="https://github.com/A-lone-Contributer/Linux-Heap-Memory-Manager">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=A-lone-Contributer&repo=Linux-Heap-Memory-Manager&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />  
+</a>
+
+</p>
+
+<br />
+
+<p align="center">
+  
+<a href="https://github.com/A-lone-Contributer/Scraping-and-Automation-Projects">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=A-lone-Contributer&repo=Scraping-and-Automation-Projects&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+</p>
+
+<p align="center">
+  
+<a href="https://github.com/A-lone-Contributer/AutoGrad">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=A-lone-Contributer&repo=AutoGrad&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+</p>
+
+
 ### How to reach me? Click on the badges below!
 
 <img src="https://img.shields.io/badge/nishkarsh78@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="nishkarsh78@gmail.com"> <a href="https://www.linkedin.com/in/nishkarsh-tripathi-098840193/"><img src="https://img.shields.io/badge/Nishkarsh Tripathi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://www.kaggle.com/nishkarshtripathi"><img src="https://img.shields.io/badge/@nishkarshtripathi-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=blue"></a>
