@@ -1,7 +1,9 @@
 
 ## Hi there, I'm [Nishkarsh](https://github.com/A-lone-Contributer)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/A-lone-Contributer?style=social)
 
-![Profile Views](https://komarev.com/ghpvc/?username=A-lone-Contributer&style=flat-square)
+ ### Profile Views :<br>
+<img src="https://profile-counter.glitch.me/A-lone-Contributer/count.svg" />
+
 <p>
   <em>
     A <b>final year B.Tech Student from GGSIPU</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>ML programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Delhi, India.
