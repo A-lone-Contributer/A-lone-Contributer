@@ -70,7 +70,8 @@
 
 </p>
 <br>
-
+<br>
 ### How to reach me? Click on the badges below!
+<br>
 
 <img src="https://img.shields.io/badge/nishkarsh78@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="nishkarsh78@gmail.com"> <a href="https://www.linkedin.com/in/nishkarsh-tripathi-098840193/"><img src="https://img.shields.io/badge/Nishkarsh Tripathi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://www.kaggle.com/nishkarshtripathi"><img src="https://img.shields.io/badge/@nishkarshtripathi-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=blue"></a>
