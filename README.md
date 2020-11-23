@@ -15,8 +15,8 @@
   
 **Talking about Personal stuff:**
 
-- 👨🏽‍💻 I have worked as Python Development intern at [Innovative Tech Lab](https://innovativetechlab.com/)
-- 🤔 My interests are with Machine Learning, DSA, System Design, Operating System etc..
+- 👨🏽‍💻 I have worked as Python Development intern at [Innovative Tech Lab](https://innovativetechlab.com/).
+- 🤔 My interests are with Machine Learning, DSA, System Design and Networking.
 - 🌱 I’m currently learning <strong>React JS</strong>.
 - 👯 I’m looking to collaborate on <strong>Machine learning and Web Dev Projects</strong>.
 - 💬 Ask me about anything, I am happy to help.
