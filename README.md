@@ -35,10 +35,10 @@
 
 
 <a href="https://github.com/A-lone-Contributer/D-CRYPTOR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=A-lone-Contributer&repo=D-CRYPTOR&cache_seconds=86400&theme=darcula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=A-lone-Contributer&repo=D-CRYPTOR&cache_seconds=86400&theme=synthwave" />
 </a>
 <a href="https://github.com/A-lone-Contributer/Linux-Heap-Memory-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=A-lone-Contributer&repo=Linux-Heap-Memory-Manager&cache_seconds=86400&theme=darcula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=A-lone-Contributer&repo=Linux-Heap-Memory-Manager&cache_seconds=86400&theme=synthwave" />
 </a>
 
 ### How to reach me? Click on the badges below!
