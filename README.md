@@ -32,8 +32,12 @@
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=A-lone-Contributer&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+<a href="https://github.com/A-lone-Contributer/D-CRYPTOR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=A-lone-Contributer&repo=D-CRYPTOR" />
+</a>
+<a href="https://github.com/A-lone-Contributer/Linux-Heap-Memory-Manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=A-lone-Contributer&repo=Linux-Heap-Memory-Manager" />
+</a>
 
 ### How to reach me? Click on the badges below!
 
