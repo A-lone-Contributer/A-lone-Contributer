@@ -33,7 +33,6 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=A-lone-Contributer&show_icons=true&hide=contribs,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
-
 <a href="https://github.com/A-lone-Contributer/D-CRYPTOR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=A-lone-Contributer&repo=D-CRYPTOR&cache_seconds=86400&theme=synthwave" />
 </a>
