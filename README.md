@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on <strong>Machine learning and Web Dev Projects</strong>.
 - 💬 Ask me about anything, I am happy to help.
 - ⚡ Fun fact: I can fix bugs without visiting Stack Overflow!😉
-- 📝 See my [Resume](https://drive.google.com/file/d/1XlGRKt4oNVUWxwt6wY1-UdBbJ4btUqC4/view?usp=sharing) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/12diPwObWJDQOcbsZIUu_aLRtrwdqDJzm/view?usp=sharing) to get more info.
 <br/> 
 </em>
 
